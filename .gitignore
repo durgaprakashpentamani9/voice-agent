@@ -1,0 +1,6 @@
+.env
+retell-resources.json
+artifacts/
+__pycache__/
+*.py[cod]
+.pytest_cache/
